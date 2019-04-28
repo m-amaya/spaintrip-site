@@ -10,16 +10,16 @@ sidebarDepth: 1
 
 > Thursday, May 23
 
-* 5:20pm - [Fly to London](/overview/#flight-7182-norwegian-air-uk)
+* 5:20pm - [Fly to London](/overview/#flight-di7182-norwegian-air-uk)
 
 ### Day 2 - London / Barcelona
 
 > Friday, May 24
 
 * 8:25am - Arrive in London
-* 10:00am - [Johann flies to Barcelona](/overview/#flight-5501-norweign-air-international-johann)
-* 1:00pm - Johann arrives in Barcelona
-* 2:20pm - [Fly to Barcelona](/overview/#departure)
+* 10:15am - [Johann flies to Barcelona](/overview/#flight-d85501-norweign-air-international-johann)
+* 1:15pm - Johann arrives in Barcelona
+* 1:20pm - [Fly to Barcelona](/overview/#flight-eju8575-easyjet)
 * 5:25pm - Arrive in Barcelona
 * Check-in to [Akira Camp Nou Apartments](/cities/#stay)
 * 8:00pm - [Yo-Yo Ma: The Bach Project Concert](/cities/#yo-yo-ma-the-bach-project-bach-s-six-cello-suites)
@@ -108,7 +108,7 @@ sidebarDepth: 1
 > Wednesday June 5
 
 * 7:30am - Arrive in Barcelona
-* 5:25pm - [Johann flies to London](/overview/#flight-5502-norwegian-air-international-johann)
+* 5:25pm - [Johann flies to London](/overview/#flight-d85502-norwegian-air-international-johann)
 * 6:40pm - Johann arrives in London
 * 8:30pm - [Fly to London](/overview/#flight-ezy8578-easyjet)
 * 9:55pm - Arrive in London
@@ -118,26 +118,75 @@ sidebarDepth: 1
 
 > Thursday, June 6
 
-* 11:10am - [Fly to Austin](/overview/#flight-7181-norwegian-air-uk)
-* 3:15pm - Arrive in Austin
+* 11:10am - [Fly to Austin](/overview/#flight-di7181-norwegian-air-uk)
+* 2:15pm - Arrive in Austin
 
 ## Flights
+> Gatwick: GPD70DLM • JustFly: 137-793-062
 
 ### Departure
 
-#### Flight #7182 - Norwegian Air UK
+#### Flight DI7182 - Norwegian Air UK
 
-#### Flight #EJU8575 - EasyJet
+> [Austin-Bergstrom International](https://www.google.com/maps/place/Austin-Bergstrom+International+Airport/@30.1974757,-97.6685469,17z/data=!3m1!4b1!4m5!3m4!1s0x8644b13b8b4aff45:0x1ca7fca8c9dc2768!8m2!3d30.1974711!4d-97.6663529) to [London-Gatwick](https://www.google.com/maps/place/Gatwick+Airport/@51.1536654,-0.1842569,17z/data=!3m1!4b1!4m5!3m4!1s0x4875efde7d1f391b:0x59dda4bf018973ff!8m2!3d51.1536621!4d-0.1820629)
+>
+> Gatwick - [NQ3RWZ](https://www.norwegian.com/us/ipr/mynorwegian#/my-reservation?pnr=NQ3RWZ&pnrName=AMAYA) • JustFly - [OKLC2A](https://www.norwegian.com/uk/ipr/mynorwegian#/my-reservation?showInfo=scheduleChange&pnr=OKLC2A&pnrName=VILLANUEVA&pnrLocal=6VTWZ)
 
-#### Flight #5501 - Norweign Air International (Johann)
+* Leaves on Thursday, May 23 @ 5:20pm
+* Arrives on Friday, May 24 @ 8:25am
+* Duration - 9h 5m
+
+#### Flight EJU8575 - EasyJet
+
+> [London-Gatwick](https://www.google.com/maps/place/Gatwick+Airport/@51.1536654,-0.1842569,17z/data=!3m1!4b1!4m5!3m4!1s0x4875efde7d1f391b:0x59dda4bf018973ff!8m2!3d51.1536621!4d-0.1820629) to [Barcelona-El Prat](https://www.google.com/maps/place/Barcelona%E2%80%93El+Prat+Airport/@41.297445,2.0832941,15z/data=!4m5!3m4!1s0x0:0xf32be942fb6f9bd7!8m2!3d41.297445!4d2.0832941)
+> 
+> Gatwick - [EWNJX8T](https://www.easyjet.com/EN/secure/MyEasyJet.mvc/ViewBooking?bookingReference=EWNJX8T)
+
+* Leaves on Friday, May 24 @ 1:20pm
+* Arrives on Friday, May 24 @ 5:25pm
+* Duration - 4h 5m
+
+#### Flight D85501 - Norweign Air International (Johann)
+
+> [London-Gatwick](https://www.google.com/maps/place/Gatwick+Airport/@51.1536654,-0.1842569,17z/data=!3m1!4b1!4m5!3m4!1s0x4875efde7d1f391b:0x59dda4bf018973ff!8m2!3d51.1536621!4d-0.1820629) to [Barcelona-El Prat](https://www.google.com/maps/place/Barcelona%E2%80%93El+Prat+Airport/@41.297445,2.0832941,15z/data=!4m5!3m4!1s0x0:0xf32be942fb6f9bd7!8m2!3d41.297445!4d2.0832941)
+> 
+> JustFly - [OKLC2A](https://www.norwegian.com/uk/ipr/mynorwegian#/my-reservation?showInfo=scheduleChange&pnr=OKLC2A&pnrName=VILLANUEVA&pnrLocal=6VTWZ)
+
+* Leaves on Friday, May 24 @ 10:15am
+* Arrives on Friday, May 24 @ 1:15pm
+* Duration - 2h
 
 ### Return
 
-#### Flight #EZY8578 - EasyJet
+#### Flight EZY8578 - EasyJet
 
-#### Flight #5502 - Norwegian Air International (Johann)
+> [Barcelona-El Prat](https://www.google.com/maps/place/Barcelona%E2%80%93El+Prat+Airport/@41.297445,2.0832941,15z/data=!4m5!3m4!1s0x0:0xf32be942fb6f9bd7!8m2!3d41.297445!4d2.0832941) to [London-Gatwick](https://www.google.com/maps/place/Gatwick+Airport/@51.1536654,-0.1842569,17z/data=!3m1!4b1!4m5!3m4!1s0x4875efde7d1f391b:0x59dda4bf018973ff!8m2!3d51.1536621!4d-0.1820629)
+> 
+> Gatwick - [EWNJX8T](https://www.easyjet.com/EN/secure/MyEasyJet.mvc/ViewBooking?bookingReference=EWNJX8T)
 
-#### Flight #7181 - Norwegian Air UK
+* Leaves on Wednesday, June 5 @ 8:30pm
+* Arrives on Wednesday, June 5 @ 9:55pm
+* Duration - 1h 55m
+
+#### Flight D85502 - Norwegian Air International (Johann)
+
+> [Barcelona-El Prat](https://www.google.com/maps/place/Barcelona%E2%80%93El+Prat+Airport/@41.297445,2.0832941,15z/data=!4m5!3m4!1s0x0:0xf32be942fb6f9bd7!8m2!3d41.297445!4d2.0832941) to [London-Gatwick](https://www.google.com/maps/place/Gatwick+Airport/@51.1536654,-0.1842569,17z/data=!3m1!4b1!4m5!3m4!1s0x4875efde7d1f391b:0x59dda4bf018973ff!8m2!3d51.1536621!4d-0.1820629)
+> 
+> JustFly - [OLBL9K](https://www.norwegian.com/uk/ipr/mynorwegian#/my-reservation?pnr=OLBL9K&pnrName=VILLANUEVA)
+
+* Leaves on Wednesday, June 5 @ 5:25pm
+* Arrives on Wednesday, June 5 @ 6:40pm
+* Duration - 2h 15m
+
+#### Flight DI7181 - Norwegian Air UK
+
+> [London-Gatwick](https://www.google.com/maps/place/Gatwick+Airport/@51.1536654,-0.1842569,17z/data=!3m1!4b1!4m5!3m4!1s0x4875efde7d1f391b:0x59dda4bf018973ff!8m2!3d51.1536621!4d-0.1820629) to [Austin-Bergstrom International](https://www.google.com/maps/place/Austin-Bergstrom+International+Airport/@30.1974757,-97.6685469,17z/data=!3m1!4b1!4m5!3m4!1s0x8644b13b8b4aff45:0x1ca7fca8c9dc2768!8m2!3d30.1974711!4d-97.6663529)
+> 
+> Gatwick - [NQ3RWZ](https://www.norwegian.com/us/ipr/mynorwegian#/my-reservation?pnr=NQ3RWZ&pnrName=AMAYA) • JustFly - [OLBL9K](https://www.norwegian.com/uk/ipr/mynorwegian#/my-reservation?pnr=OLBL9K&pnrName=VILLANUEVA)
+
+* Leaves on Thursday, June 6 @ 11:10am
+* Arrives on Thursday, June 6 @ 2:15pm
+* Duration - 10h 5m
 
 ## Transportation
 
