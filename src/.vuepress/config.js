@@ -8,6 +8,7 @@ module.exports = {
       { text: "GitHub", link: "https://github.com/m-amaya/spaintrip-site" }
     ],
     sidebar: 'auto',
+    sidebarDepth: 0,
     lastUpdated: true
   }
 }
