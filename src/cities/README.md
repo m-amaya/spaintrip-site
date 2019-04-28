@@ -8,9 +8,19 @@
 
 ### Highlights
 
+#### Yo-Yo Ma: The Bach Project: Bach's Six Cello Suites
+
+#### Camp Nou - F.C. Barcelona Stadium Tour
+
+#### Park Güell and La Sagrada Familia Tour
+
 ### Stay
 
+#### Akira Camp Nou Class Apartments
+
 ### Transportation
+
+#### Barcelona Hop-On Hop-Off Bus
 
 ### Wish List
 
@@ -22,9 +32,15 @@
 
 ### Highlights
 
+#### Royal Palace of Madrid Tour
+
 ### Stay
 
+#### AbraCadabra Suites
+
 ### Transportation
+
+#### Madrid Hop-On Hop-Off Bus
 
 ### Wish List
 
@@ -36,7 +52,11 @@
 
 ### Highlights
 
+#### Córdoba Walking Tour
+
 ### Stay
+
+#### Cerca de la Mezquita
 
 ### Transportation
 
@@ -50,7 +70,13 @@
 
 ### Highlights
 
+#### Flamenco Show & Dinner
+
+#### Alcazar and Cathedral of Seville Tour
+
 ### Stay
+
+#### Hotel Londres
 
 ### Transportation
 
@@ -64,7 +90,11 @@
 
 ### Highlights
 
+#### Alhambra & Generalife Tour
+
 ### Stay
+
+#### ???
 
 ### Transportation
 
@@ -77,6 +107,10 @@
 > 1 day
 
 ### Highlights
+
+#### Valencia Bike Tour
+
+#### Bioparc Zoo
 
 ### Stay
 
@@ -92,7 +126,11 @@
 
 ### Highlights
 
+#### Caves of Drach
+
 ### Stay
+
+#### Be Live Costa Palma
 
 ### Transportation
 
@@ -104,10 +142,8 @@
 > 
 > 1 night
 
-### Highlights
-
 ### Stay
 
-### Transportation
+#### London Olympus Hotel
 
-### Wish List
+### Transportation

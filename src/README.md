@@ -26,3 +26,10 @@ features:
   details: Wed Jun 5 • 1 night
 footer: Copyright © 2019 by mamaya
 ---
+
+<style>
+  .theme-container blockquote {
+    border-left: none;
+    padding: 0 0 0.5rem 0;
+  }
+</style>
