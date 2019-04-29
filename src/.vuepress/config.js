@@ -15,7 +15,8 @@ module.exports = {
           'itinerary',
           'flights',
           'transportation',
-          'cost'
+          'cost',
+          'links'
         ]
       }], '/cities/': [{
         title: 'Cities',
