@@ -32,6 +32,8 @@ Visit Bioparc Valencia, an innovative zoo in central Valencia. Mimicking the nat
 
 ## Stay
 
+There is no stay booked for this city. We will have to use luggage storage for the day.
+
 ## Getting Around
 
 It is recommended to take the [bus](http://www.emtvalencia.es/ciudadano/index.php) and/or [metro](https://www.metrovalencia.es/page.php?idioma=_en). Taxis are not recommended.
