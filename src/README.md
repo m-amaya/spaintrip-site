@@ -4,7 +4,7 @@ heroImage: /spain-icon-button.png
 heroText: Spain Trip
 tagline: May 23 - June 6
 actionText: ★ View Itinerary
-actionLink: /overview/#itinerary
+actionLink: /overview/itinerary/
 features:
 - title: ⊙ 1 Barcelona
   details: Fri May 24 to Sun May 26 • 2.5 days
