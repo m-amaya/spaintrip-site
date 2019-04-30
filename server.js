@@ -3,7 +3,7 @@ const express = require('express');
 const morgan = require('morgan');
 const path = require('path');
 
-const PORT = 8000 || process.env.PORT;
+const PORT = process.env.PORT || 8000;
 
 const LOGIN_DIR = path.resolve(__dirname, 'login');
 const LOGIN_INDEX = path.resolve(LOGIN_DIR, 'login.html');
