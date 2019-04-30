@@ -56,9 +56,6 @@
       var password = formFields[1].value;
 
       if(username && password) {
-        console.log('username:', username);
-        console.log('password:', password);
-
         let data = {
           username: username,
           password: password,
@@ -69,9 +66,8 @@
           type: 'POST',
           contentType: 'application/json; charset=utf-8',
           data: JSON.stringify(data),
-          dataType: 'json',
         }).done(function(data) {
-          console.log('success:', data);
+          location.replace('/');
         }).fail(function() {
           location.reload();
         });
