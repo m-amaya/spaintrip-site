@@ -2,16 +2,20 @@
   "name": "spaintrip-site",
   "version": "1.0.0",
   "description": "Website for Spain 2019",
-  "main": "README.md",
+  "main": "server.js",
   "repository": "git@github.com:m-amaya/spaintrip-site.git",
   "author": "m-amaya <mamaya.dev@gmail.com>",
   "license": "MIT",
   "private": false,
   "scripts": {
     "serve": "vuepress dev src",
-    "build": "vuepress build src"
+    "build": "vuepress build src",
+    "start": "node server.js"
   },
   "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.16.4",
+    "morgan": "^1.9.1",
     "vuepress": "^1.0.0-alpha.47"
   }
 }

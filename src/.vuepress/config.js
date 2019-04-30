@@ -1,5 +1,8 @@
 module.exports = {
   title: "Spain 2019",
+  head: [
+    [ 'link', { rel: 'icon', href: '/favicon.ico' } ]
+  ],
   themeConfig: {
     logo: "/spain-icon-button.png",
     nav: [
