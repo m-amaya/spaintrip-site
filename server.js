@@ -17,8 +17,6 @@ const app = express();
 /** Use middleware */
 app.use(morgan('dev'));
 app.use(json({ strict: true }));
-app.use(express.static(LOGIN_DIR));
-app.use(express.static(SITE_DIR));
 
 /** Login routes */
 app.get('/login', (req, res) => {
@@ -39,6 +37,10 @@ const controller = (req, res) => {
 
 app.get('/', controller);
 app.get('*.html', controller);
+
+/** Static Directories  */
+app.use(express.static(LOGIN_DIR));
+app.use(express.static(SITE_DIR));
 
 /** Start server  */
 app.listen(PORT, () => {
