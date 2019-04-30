@@ -3,6 +3,8 @@ const express = require('express');
 const morgan = require('morgan');
 const path = require('path');
 
+const PORT = 8000 || process.env.PORT;
+
 const LOGIN_DIR = path.resolve(__dirname, 'login');
 const LOGIN_INDEX = path.resolve(LOGIN_DIR, 'login.html');
 
@@ -39,6 +41,6 @@ app.get('/', controller);
 app.get('*.html', controller);
 
 /** Start server  */
-app.listen(80, () => {
-  console.log('Server has started...');
+app.listen(PORT, () => {
+  console.log(`Magic happens on port ${PORT}...`);
 });
